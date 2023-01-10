@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "php-webdriver/webdriver": "^1.13",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload":{
+        "psr-4":{
+            "src\\": "src"
+        }
+    }
+}
